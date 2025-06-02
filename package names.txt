@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+seaborn
+pandas
+
+pip install torch torchvision numpy matplotlib scikit-learn seaborn pandas
